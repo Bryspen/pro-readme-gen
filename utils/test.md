@@ -1,23 +1,28 @@
-# getwrekt
+# ${response.title}
+  ${licenseBadge}
 ## Description
-    get wrek is an app that...
+  ${response.description}
 ## Table of Contents
-    - [Description](#description)
-    - [User Story](#userstory)
-    - [Acceptance Criteria](#acceptance)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [Liscense](#liscense)
-## installation 
-    App can be downloaded from website or google store
-    ## Usage 
-    it is a mobile game
-    ## Credits
-    johhny123 and my mom
-    ## Liscense
-    undefined
-    ## Contributing
-    nobody
-    ## Tests
-    none
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+## Installation 
+  ${response.installation}
+## Usage 
+  ${response.usage}
+## Credits
+  ${response.credits}
+## License
+  ${licenseSection}
+## Contributing
+  ${response.contributing}
+## Tests
+  ${response.tests}
+## Questions
+  GitHub - [${response.github}](github.com/${response.github})
+  Email - [${response.email}](${response.email})
+  License - [${response.license}](${licenseLink})
