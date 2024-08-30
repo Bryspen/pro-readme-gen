@@ -58,9 +58,9 @@ function generateMarkdown(response) {
   const licenseSection = renderLicenseSection(response.license);
 
   return `# ${response.title}
-  ${licenseBadge}
+    ${licenseBadge}
 ## Description
-  ${response.description}
+    ${response.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -70,21 +70,21 @@ function generateMarkdown(response) {
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation 
-  ${response.installation}
+    ${response.installation}
 ## Usage 
-  ${response.usage}
+    ${response.usage}
 ## Credits
-  ${response.credits}
+    ${response.credits}
 ## License
-  ${licenseSection}
+    ${licenseSection}
 ## Contributing
-  ${response.contributing}
+    ${response.contributing}
 ## Tests
-  ${response.tests}
+    ${response.tests}
 ## Questions
-  GitHub - [${response.github}](github.com/${response.github})\n
-  Email - [${response.email}](${response.email})\n
-  License - [${response.license}](${licenseLink})`;
+  GitHub  [${response.github}](github.com/${response.github})
+  Email  [${response.email}](${response.email})
+  License  ${licenseLink}`;
 }
 
 export default generateMarkdown;

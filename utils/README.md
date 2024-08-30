@@ -1,7 +1,7 @@
-# Random number generator
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# a
+    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-  It generates a random number
+    a
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,20 +11,18 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation 
-  runs in command prompt
+    a
 ## Usage 
-  run from node
+    a
 ## Credits
-  Bobby123
+  a
 ## License
-  This project is licensed under the Apache license, Version 2.0.
+  This project is licensed under the MIT license, Copyright 2024 to present.
 ## Contributing
-  Reach me at BOBBy123 @ patreon
+  a
 ## Tests
-  
+  a
 ## Questions
-  GitHub - [bryspen](github.com/bryspen)
-
-  Email - [bryanmspencer@gmail.com](bryanmspencer@gmail.com)
-
-  License - [Apache]([Apache](https://opensource.org/licenses/Apache-2.0))
+  GitHub  [a](github.com/a)
+  Email  [a](a)
+  License  [MIT](https://opensource.org/licenses/MIT)

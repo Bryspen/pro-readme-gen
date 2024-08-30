@@ -36,7 +36,7 @@ const questions = [{
 },
 {
     type: 'input',
-    message: 'What tests are there to run for your project?',
+    message: 'Are there any tests to run for your project?',
     name: 'tests',
 },
 {
