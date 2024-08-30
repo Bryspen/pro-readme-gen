@@ -1,7 +1,7 @@
-# a
-    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Random Number Generator
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-    a
+  Generates a random number
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,18 +11,18 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation 
-    a
+    Runs from command prompt
 ## Usage 
-    a
+    Runs from command prompt using node index.js
 ## Credits
-  a
+    Bobby123
 ## License
-  This project is licensed under the MIT license, Copyright 2024 to present.
+    This project is licensed under the MIT license, Copyright 2024 to present.
 ## Contributing
-  a
+    Please reach out to my patreon
 ## Tests
-  a
+    
 ## Questions
-  GitHub  [a](github.com/a)
-  Email  [a](a)
+  GitHub  [bryspen](github.com/bryspen)
+  Email  [bryanmspencer@gmail.com](bryanmspencer@gmail.com)
   License  [MIT](https://opensource.org/licenses/MIT)

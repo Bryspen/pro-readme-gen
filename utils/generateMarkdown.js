@@ -58,9 +58,9 @@ function generateMarkdown(response) {
   const licenseSection = renderLicenseSection(response.license);
 
   return `# ${response.title}
-    ${licenseBadge}
+  ${licenseBadge}
 ## Description
-    ${response.description}
+  ${response.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
